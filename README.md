@@ -9,7 +9,8 @@ This repository contains a collection of machine learning experiments, data anal
 * **`logistic and dt.ipynb`**: Implementations of Logistic Regression and Decision Tree classifiers for binary/multiclass classification tasks.
 * **`DT_and_RF.ipynb`**: A comparative look at single Decision Trees versus ensemble methods using Random Forests.
 * **`knn and svc.ipynb`**: Implementation of K-Nearest Neighbors (KNN) and Support Vector Classifiers (SVC).
-* **`LOGISTIC_ON_ADVERTISING.ipynb`: A binary classification model using Logistic Regression to predict whether a user will click on an advertisement based on some features.
+* **`LOGISTIC_ON_ADVERTISING.ipynb`**: A binary classification model using Logistic Regression to predict whether a user will click on an advertisement based on some features.
+
 ### Regression
 * **`Linear regression on ecom.ipynb`**: Linear regression applied to the `Ecommerce Customers` dataset to analyze and predict customer spending behavior.
 * **`lin.ipynb`**: Foundational linear regression model analyzing the `USA_Housing.csv` dataset to predict housing prices.
